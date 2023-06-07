@@ -1,0 +1,23 @@
+
+#result-title {
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+
+#result-btn-list {
+    margin-right: 5px;
+}
+
+#result-content {
+    padding-top: 20px;
+    border : 1px solid #E2E2E2;
+    margin : 0 auto;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    width: 60%
+}
+
+td {
+    padding: 10px;
+}

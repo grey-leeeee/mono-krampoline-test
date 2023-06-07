@@ -1,0 +1,50 @@
+
+.outBox {
+    margin-top: 40px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.logoText {
+    margin-bottom: 30px;
+}
+
+.inBox {
+    border : 1px solid #E2E2E2;
+    padding : 60px;
+    padding-top : 75px;
+    margin : 0 auto;
+    width: 40%
+}
+
+.form-btn {
+    margin-top: 50px;
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    border: none;
+    background-color: rgba(254, 229, 0, 0.8);
+    color: black;
+}
+
+.form-btn-email-check {
+    margin-top: 5px;
+    width: 100%;
+    height: 35px;
+}
+
+.login-signup {
+    color: black;
+    font-size: 12px;
+    display: block;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.form-label {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+}

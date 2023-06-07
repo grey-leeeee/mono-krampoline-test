@@ -1,0 +1,37 @@
+
+.cart-item {
+    margin : 30px;
+    margin-top: 10px;
+    margin-bottom : 10px;
+
+    padding: 10px;
+    padding-left: 10px;
+
+    border : 1px solid #E2E2E2;
+    text-align: left;
+}
+
+#cart-item-title {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#cart-item-count {
+    overflow: hidden
+}
+
+#cart-item-box {
+    text-align: right;
+}
+
+#cart-item-price {
+    margin-top: 10px;
+    float:right;
+    font-weight: bold;
+}
+
+#cart-item-count-btn {
+    float:left;
+    width: 145px;
+    height: 25px
+}

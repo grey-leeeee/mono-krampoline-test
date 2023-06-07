@@ -1,0 +1,24 @@
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border-bottom: 0.5px solid gray;
+}
+
+.navigation span {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.contents {
+    display: flex;
+    width: 96%;
+    height: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+}
+

@@ -1,0 +1,134 @@
+
+.cart-box {
+    background-color: white;
+    text-align: center;
+
+    padding-top: 20px;
+    border : 1px solid #E2E2E2;
+    margin : 0 auto;
+    margin-bottom: 15px;
+    width: 60%;
+
+    overflow: hidden;
+}
+
+.cart-inbox {
+    padding: 10px;
+    background-color: white;
+}
+
+#content-title {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom : 15px;
+    border-bottom : 1px solid #E2E2E2;
+}
+
+.content-title-inner {
+    border-top : 0.5px solid #E2E2E2;
+    border-bottom : 0.5px solid #E2E2E2;
+
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    margin : 0 auto;
+}
+
+.content-label-inner {
+    text-align: left;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin : 0 auto;
+
+}
+
+#cart-title {
+    font-weight: bold;
+    text-align: left;
+    padding: 20px;
+}
+
+
+#cart-price-label {
+    float:left;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#cart-price {
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #5082E2;
+}
+
+.bottom-btn {
+    padding: 12px;
+    margin-top: 20px;
+
+    font-weight: bold;
+
+    display: inline-flex;
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    border: none;
+    background-color: rgba(254, 229, 0, 0.8);
+    color: black;
+}
+
+.content-list {
+    margin: 10px;
+    padding: 10px;
+    border-bottom : 0.5px solid #E2E2E2;
+}
+
+.content-basic {
+    padding: 15px;
+}
+
+.content-box {
+    background-color: white;
+    text-align: center;
+
+    padding: 15px;
+    border : 1px solid #E2E2E2;
+    margin : 0 auto;
+    margin-bottom: 15px;
+    width: 60%;
+    overflow: hidden;
+}
+
+.content-box-bottom {
+    background-color: white;
+    text-align: left;
+
+    border : 1px solid #E2E2E2;
+    margin : 0 auto;
+    width: 60%;
+
+}
+
+.content-label-price {
+    float:left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#select {
+    font-size: 14px;
+}
+
+#textarea {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+#order-btn-delivery {
+    float: right;
+}
